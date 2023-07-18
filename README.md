@@ -60,5 +60,6 @@ Here are some ideas to get you started:
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Github status
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MNBhat&theme=nord_bright)
-<p><img src="https://github-readme-stats.vercel.app/api?username=MNBhat&amp;show_icons=true" style="height:250px; width:520px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suraporn&amp;show_icons=true&amp;layout=compact" style="height:250px; width:520px" /></p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=MNBhat&amp;show_icons=true" style="height:250px; width:520px" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MNBhat&amp;show_icons=true&amp;layout=compact" style="height:250px; width:520px" /></p>
 
