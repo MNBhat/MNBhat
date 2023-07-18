@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I have previously worked on
+  
     - Demand Forecasting
     - Suicide Analysis Dashboard using Dash
     - Packages in R and Python
     - Salaries of Data Scientist Shiny App
     - Analysis of Energy Efficiency
-    - 
+  
 
