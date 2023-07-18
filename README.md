@@ -22,5 +22,7 @@ Here are some ideas to get you started:
   - Packages in R and Python
   - Salaries of Data Scientist Shiny App
   - Analysis of Energy Efficiency
+
+What I know 🧠
   
 
