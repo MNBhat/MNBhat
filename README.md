@@ -23,6 +23,6 @@ Here are some ideas to get you started:
   - Salaries of Data Scientist Shiny App
   - Analysis of Energy Efficiency
 
-What I know 🧠
-  
+🧠 What I know 
+  https://camo.githubusercontent.com/77758cfd838a349a689304e069b307443063c7cf110b8792f37162af601ceef8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3336373041303f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d666664643534
 
