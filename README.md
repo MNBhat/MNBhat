@@ -58,5 +58,7 @@ Here are some ideas to get you started:
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat-square&logo=rstudio&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Github status
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MNBhat&theme=nord_bright)
+<p><img src="https://github-readme-stats.vercel.app/api?username=MNBhat&amp;show_icons=true" style="height:250px; width:520px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suraporn&amp;show_icons=true&amp;layout=compact" style="height:250px; width:520px" /></p>
 
