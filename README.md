@@ -1,5 +1,7 @@
 ### Hi there 👋
-I am a recent graduate in Data Science from the University of British Columbia keen on exploring the field on AI and macgine learning 
+I am a recent graduate in Data Science from the University of British Columbia keen on exploring the field of AI and machine learning. 
+Previously worked as a Reports Developer using SQl Server Reporting Services and Crystal repors
+
 <!--
 **MNBhat/MNBhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
