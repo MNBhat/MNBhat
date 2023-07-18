@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I have previously worked on
+🔭 I have previously worked on
   
     - Demand Forecasting
     - Suicide Analysis Dashboard using Dash
